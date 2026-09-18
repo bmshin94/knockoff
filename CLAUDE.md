@@ -1,3 +1,24 @@
+# Knockoff (Shpigford/knockoff)
+
+## 프로젝트 개요
+해외 직구 및 아마존 쇼핑 중 쏟아지는 조잡한 가짜 브랜드와 카피 제품들을 화면에서 깨끗이 걸러내주는 "온라인 쇼핑 쓰레기 필터기"
+의미 없는 알파벳 조합의 저품질 제품들을 숨겨주고 검증된 정품과 믿을 수 있는 브랜드 상품만 화면에 돋보이도록 정리
+끝없는 저질 상품 탐색에 낭비되는 시간과 쇼핑 실패의 스트레스를 말끔히 씻어주는 필수 크롬 확장 프로그램
+
+## 핵심 특징 & 추천 분야
+- 쇼핑위조품필터
+- 가짜브랜드차단
+- 온라인쇼핑정화
+- 스마트소비도우미
+- 크롬확장도구
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
